@@ -5,14 +5,15 @@ Introduction (to Destruction)
 
 What I do
 ---
-- Happy amateur at everything I do, but I do it with joy
+- Happy amateur at everything I do, but I do it with joy. Staunch FOSS advocate
 - I’m interested in... Way too much to list here, but for example...
 - Video editing, graphic design, writing, music production, ROM hacking, etc
 
 Contact
 ---
-- Best way to reach me is my Protonmail at AlxDoe@pm.me
-- Might add my Discord or Matrix here later, don't feel comfortable sharing that publicly
+- Best way to reach me is ~~[REDACTED]~~
+- You can email me at AlxDoe@pm.me or AlxDoe@outlook.com
+- Might add my Discord or Matrix here later, don't feel comfortable sharing that publicly yet
 
 <!---
 ItsAlxDoe/ItsAlxDoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
