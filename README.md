@@ -11,9 +11,9 @@ What I do
 
 Contact
 ---
-- Best way to reach me is ~~[REDACTED]~~
-- You can email me at AlxDoe@pm.me or AlxDoe@outlook.com
-- Might add my Discord or Matrix here later, don't feel comfortable sharing that publicly yet
+- Best way to reach me is my Discord ItsAlxDoe!#3697
+- You can email me at AlxDoe@proton.me
+- Might add my Matrix here later, don't feel like it's worth adding as I barely use it
 
 <!---
 ItsAlxDoe/ItsAlxDoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
