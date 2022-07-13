@@ -1,7 +1,7 @@
 Introduction (to Destruction)
 ---
 - Heya, name's Alicia, but people call me Alice
-- Not a coder, but hey. Having a Github's useful for a lot
+- Not really a coder, but hey. Having a Github's useful for a lot
 
 What I do
 ---
