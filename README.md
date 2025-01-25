@@ -11,9 +11,9 @@ What I do
 
 Contact
 ---
-- Best way to reach me is my Discord RadikAlice#3697
+- Best way to reach me is my Discord `radikarules`
 - You can email me at AlxDoe@proton.me
-- Might add my Matrix here later, don't feel like it's worth adding as I barely use it
+
 
 <!---
 ItsAlxDoe/ItsAlxDoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
